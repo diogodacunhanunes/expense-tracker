@@ -129,7 +129,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://github.com/yourusername)
+Diogo Nunes
 
 ## 🙏 Acknowledgments
 
